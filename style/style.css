@@ -1,0 +1,27 @@
+
+
+
+.input-all{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and( max-width:600px) {
+    .input-all{
+        flex-direction: column;
+        width: 50px;
+    }
+
+
+
